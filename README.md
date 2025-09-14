@@ -33,7 +33,7 @@ Passionate about creating beautiful user interfaces, delivering great user exper
 ## 📫 Contact
 <p>
   ✉️ Email: alitaghipour95@yahoo.com.com<br>
-  🔗 LinkedIn: <a href="https://linkedin.com/in/ali_taghipour">linkedin.com/in/yourname</a><br>
+  🔗 LinkedIn: <a href="https://linkedin.com/in/ali_taghipour">linkedin.com/in/ali_taghipour</a><br>
 </p>
 
 ---
